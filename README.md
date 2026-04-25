@@ -32,12 +32,24 @@ This project demonstrates full CRUD operations with a modern UI and REST API int
 ---
 
 ## 📁 Project Structure
-
+  
 Fullstack-To-Do/
 │
-├── client/        # React frontend  
-├── server/        # Node + Express backend  
-├── README.md  
+├── client/ # React frontend (UI)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── screenshots/ # App screenshots
+│
+├── server/ # Node + Express backend (API)
+│ ├── models/
+│ ├── routes/
+│ ├── index.js
+│ └── package.json
+│
+└── README.md
+
 
 ---
 
