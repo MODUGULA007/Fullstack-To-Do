@@ -91,6 +91,10 @@ http://localhost:3000
 
 ---
 
+📸 Screenshots
+
+screenshots inside /screenshots folder.
+
 ## 🔗 API Endpoints
 
 | Method | Endpoint | Description |
